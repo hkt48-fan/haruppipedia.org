@@ -1,0 +1,9 @@
+#content img[alt="Acfun"]{
+    display: inline;
+}
+
+a[href^="https://"][title="noicon"], a[href^="http://"][title="noicon"]{
+    background: none;
+    padding-right: 0px;
+}
+
