@@ -5,8 +5,8 @@
 [推荐视频][recommend videos]
 
 
-
-# 出演预定
+### 出演预定
+---
 ■はるっぴ予定
 02/06土「HKT48アリーナツアー」 名古屋・日本ガイシホール 13:00/18:00
 02/07日 AKB48 7thアルバム 大写真会 幕張メッセ
@@ -30,8 +30,13 @@
 01/26火 別冊FLIX Vol.4 表紙: NMB48&HKT48
 01/28木 週刊チャンピオン 表紙・巻頭
 
-
+兒玉遥迷你档案
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 [bangumi list]:#
 [cm list]:#
-[recommand videos]:#
+[recommend videos]:#
