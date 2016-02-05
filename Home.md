@@ -83,7 +83,8 @@
 
 ---
 [兒玉遥贴吧][haruppi tieba]
-![微信公众号 兒玉派][haruppi wechat]
+[兒玉遥应援会][haruppi weibo]
+微信公众号 ![微信公众号 兒玉派][haruppi wechat]
 
 
 [bangumi list]:#
@@ -93,4 +94,5 @@
 [haruppi g+]:https://plus.google.com/u/0/111907069956262615426/posts
 [haruppi 755]:http://7gogo.jp/kodama-haruka
 [haruppi tieba]:http://tieba.baidu.com/f?kw=%E5%84%BF%E7%8E%89%E9%81%A5
+[haruppi weibo]:http://weibo.com/p/1005055593301047
 [haruppi wechat]:/wiki/images/wechat.jpg
