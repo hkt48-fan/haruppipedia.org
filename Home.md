@@ -93,4 +93,4 @@
 [haruppi g+]:https://plus.google.com/u/0/111907069956262615426/posts
 [haruppi 755]:http://7gogo.jp/kodama-haruka
 [haruppi tieba]:http://tieba.baidu.com/f?kw=%E5%84%BF%E7%8E%89%E9%81%A5
-[haruppi wechat]:../images/wechat.jpg
+[haruppi wechat]:/wiki/images/wechat.jpg
