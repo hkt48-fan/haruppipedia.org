@@ -86,7 +86,7 @@
 [兒玉遥应援会][haruppi weibo]
 微信公众号 ![微信公众号 兒玉派][haruppi wechat]
 
-
+**本站内容译自 [兒玉遥wiki日站](http://haruppi.wiki.fc2.com/)**
 [bangumi list]:#
 [cm list]:#
 [recommend videos]:#
