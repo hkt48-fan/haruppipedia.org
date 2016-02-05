@@ -2,7 +2,7 @@
     display: inline;
 }
 
-a[href^="https://"][title="noicon"], a[href^="http://"][title="noicon"]{
+a[href^="https://"][title="Acfun"], a[href^="http://"][title="Acfun"]{
     background: none;
     padding-right: 0px;
 }
