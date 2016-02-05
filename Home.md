@@ -1,5 +1,3 @@
-欢迎来到兒玉遥百科
-
 [出演番组一览][bangumi list]
 [出演CM一览][cm list]
 [推荐视频][recommend videos]
@@ -35,18 +33,64 @@
 |         |            |
 | ---------- |-------------:|
 | 所属事务所   | AKS          |
-| 年龄        | 19岁         |
-| 昵称        | はるっぴ      |
-| 生日        | 1996年9月19日 |
-| 出身地      | 福冈县        |
-| 血型        | O型          |
-| 身高        | 158cm        |
-| 兄弟        | 弟弟两枚      |
-| 合格期      | 一期生        |
-| 队伍        | HKT48 Team H、AKB48 Team K兼任 |
-| 选拔次数     | 4次          |
-|             |4次     |
- 
+| 年龄           | 19岁         |
+| 昵称           | はるっぴ      |
+| 生日           | 1996年9月19日 |
+| 出身地        | 福冈县        |
+| 血型           | O型          |
+| 身高           | 158cm        |
+| 兄弟           | 弟弟两枚      |
+| 合格期        | 一期生        |
+| 队伍           | HKT48 Team H、AKB48 Team K兼任 |
+| 选拔次数      | HKT48: 4次          |
+|                 |AKB48: 4次     |
+|选拔总选举    | 第5回: 圈外|
+|                 | 第5回: 37位|
+|                 |第6回: 21位|
+|                 |第7回: 17位|
+|猜拳选拔      |第2回: HKT48预选败退|
+|                 |第3回: 1回战败退|
+|                 |第4回: 2回战败退|
+|                 |第5回: 3回战败退|
+
+### 简历
+---
+#### 2011年
+- 7月10日 HKT48 一期生甄选合格
+- 10月23日 『飞翔入手(フライングゲット)』全国握手会@西武巨蛋 初次披露
+- 11月26日 手牵手(手をつなぎながら) 公演初日登场
+
+#### 2012年
+- 3月4日 Team H结成
+
+#### 2013年
+- 4月28日 AKB48 Team A兼任
+- 6月8日 AKB48选拔总选举 获得37位
+- 6月19日 AKB48剧场 Team A公演登场
+
+#### 2014年
+- 2月24日 大组阁 HKT48 新Team H 及 AKB48 Team K兼任
+- 6月7日 AKB48选拔总选举 获得21位
+
+#### 2015年
+- 6月6日 AKB48选拔总选举 获得17位
+
+### 相关链接
+---
+[HKT48官方网站 兒玉遥个人资料][haruppi offical]
+[兒玉遥 Google+][haruppi g+]
+[兒玉遥 755][haruppi 755]
+
+---
+[兒玉遥贴吧][haruppi tieba]
+![微信公众号 兒玉派][haruppi wechat]
+
+
 [bangumi list]:#
 [cm list]:#
 [recommend videos]:#
+[haruppi offical]:http://www.hkt48.jp/profile/haruka_kodama.html
+[haruppi g+]:https://plus.google.com/u/0/111907069956262615426/posts
+[haruppi 755]:http://7gogo.jp/kodama-haruka
+[haruppi tieba]:http://tieba.baidu.com/f?kw=%E5%84%BF%E7%8E%89%E9%81%A5
+[haruppi wechat]:../images/wechat.jpg
