@@ -1,8 +1,3 @@
-[出演番组一览][bangumi list]
-[出演CM一览][cm list]
-[推荐视频][recommend videos]
-
-
 ### 出演预定
 ---
 ■はるっぴ予定
@@ -87,9 +82,6 @@
 微信公众号 ![微信公众号 兒玉派][haruppi wechat]
 
 **本站内容译自 [兒玉遥wiki日站](http://haruppi.wiki.fc2.com/)**
-[bangumi list]:#
-[cm list]:#
-[recommend videos]:#
 [haruppi offical]:http://www.hkt48.jp/profile/haruka_kodama.html
 [haruppi g+]:https://plus.google.com/u/0/111907069956262615426/posts
 [haruppi 755]:http://7gogo.jp/kodama-haruka
