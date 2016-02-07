@@ -23,7 +23,7 @@
 Haruppi Story
 - 偶像「哈鲁P」的诞生
 - 跨越试炼
-- Center 哈鲁P 的复活
+- Center「哈鲁P」的复活
 
 [home]:./Home
 [bangumi 2011]:./2011年出演番组
