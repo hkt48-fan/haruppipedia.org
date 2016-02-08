@@ -26,17 +26,16 @@ Haruppi Story
 - 跨越试炼
 - Center「哈鲁P」的复活
 
-[home]:./Home
-[bangumi 2011]:./2011年出演番组
-[bangumi 2012]:./2012年出演番组
-[bangumi 2013]:./2013年出演番组
-[bangumi 2014]:./2014年出演番组
-[bangumi 2015]:./2015年出演番组
-[bangumi 2016]:./2016年出演番组
-
-[magazine 2016]:./2016年出镜杂志
-[magazine 2015]:./2015年出镜杂志
-[magazine 2014]:./2014年出镜杂志
-[magazine 2013]:./2013年出镜杂志
-[magazine 2012]:./2012年出镜杂志
-[magazine 2011]:./2011年出镜杂志
+[home]:/wiki/Home
+[bangumi 2011]:/wiki/2011年出演番组
+[bangumi 2012]:/wiki/2012年出演番组
+[bangumi 2013]:/wiki/2013年出演番组
+[bangumi 2014]:/wiki/2014年出演番组
+[bangumi 2015]:/wiki/2015年出演番组
+[bangumi 2016]:/wiki/2016年出演番组
+[magazine 2016]:/wiki/2016年出镜杂志
+[magazine 2015]:/wiki/2015年出镜杂志
+[magazine 2014]:/wiki/2014年出镜杂志
+[magazine 2013]:/wiki/2013年出镜杂志
+[magazine 2012]:/wiki/2012年出镜杂志
+[magazine 2011]:/wiki/2011年出镜杂志
